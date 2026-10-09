@@ -1,0 +1,18 @@
+keyword,category,subcategory,assignment_group,weight,active
+vpn,network,vpn,Network Support,8,true
+wifi,network,wireless,Network Support,6,true
+internet,network,connectivity,Network Support,5,true
+password,inquiry,password reset,Service Desk,9,true
+forgot,inquiry,password reset,Service Desk,4,true
+locked out,inquiry,password reset,Service Desk,8,true
+outlook,software,email,Application Support,7,true
+email,software,email,Application Support,5,true
+excel,software,office,Application Support,5,true
+install,software,installation,Application Support,4,true
+access denied,software,access,Identity Team,7,true
+permission,software,access,Identity Team,6,true
+laptop,hardware,laptop,Hardware Support,5,true
+keyboard,hardware,peripheral,Hardware Support,5,true
+monitor,hardware,peripheral,Hardware Support,5,true
+printer,hardware,printer,Hardware Support,6,true
+toner,hardware,printer,Hardware Support,6,true
